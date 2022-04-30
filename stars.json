@@ -1,87 +1,87 @@
 [
   {
     "full_name": "google/zx",
-    "stargazers_count": 30697,
+    "stargazers_count": 30769,
     "open_issues_count": 14,
     "forks_count": 689
   },
   {
     "full_name": "actix/actix-web",
-    "stargazers_count": 13949,
+    "stargazers_count": 13982,
     "open_issues_count": 125,
-    "forks_count": 1364
+    "forks_count": 1363
   },
   {
     "full_name": "FactoryBoy/factory_boy",
-    "stargazers_count": 2811,
-    "open_issues_count": 175,
-    "forks_count": 345
+    "stargazers_count": 2815,
+    "open_issues_count": 176,
+    "forks_count": 346
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 26139,
-    "open_issues_count": 1444,
-    "forks_count": 2435
+    "stargazers_count": 26190,
+    "open_issues_count": 1453,
+    "forks_count": 2444
   },
   {
     "full_name": "Redocly/redoc",
-    "stargazers_count": 17126,
-    "open_issues_count": 416,
-    "forks_count": 1901
+    "stargazers_count": 17157,
+    "open_issues_count": 414,
+    "forks_count": 1904
   },
   {
     "full_name": "shoelace-style/shoelace",
-    "stargazers_count": 6633,
-    "open_issues_count": 32,
-    "forks_count": 399
+    "stargazers_count": 6638,
+    "open_issues_count": 34,
+    "forks_count": 402
   },
   {
     "full_name": "tiangolo/fastapi",
-    "stargazers_count": 44352,
-    "open_issues_count": 1484,
-    "forks_count": 3418
+    "stargazers_count": 44463,
+    "open_issues_count": 1486,
+    "forks_count": 3422
   },
   {
     "full_name": "steveruizok/perfect-freehand",
-    "stargazers_count": 2490,
+    "stargazers_count": 2494,
     "open_issues_count": 0,
     "forks_count": 72
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 16893,
-    "open_issues_count": 142,
-    "forks_count": 3884
+    "stargazers_count": 16989,
+    "open_issues_count": 143,
+    "forks_count": 3906
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 4885,
-    "open_issues_count": 55,
+    "stargazers_count": 4917,
+    "open_issues_count": 58,
     "forks_count": 186
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 139187,
-    "open_issues_count": 10634,
-    "forks_count": 21736
+    "stargazers_count": 139285,
+    "open_issues_count": 10648,
+    "forks_count": 21786
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 193229,
-    "open_issues_count": 124,
-    "forks_count": 27824
+    "stargazers_count": 193514,
+    "open_issues_count": 126,
+    "forks_count": 27861
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 217914,
+    "stargazers_count": 218322,
     "open_issues_count": 47,
-    "forks_count": 59123
+    "forks_count": 59200
   },
   {
     "full_name": "zhenghaoz/gorse",
-    "stargazers_count": 5467,
+    "stargazers_count": 5571,
     "open_issues_count": 36,
-    "forks_count": 477
+    "forks_count": 482
   },
   {
     "full_name": "ForbesLindesay/redux-optimist",
@@ -91,39 +91,39 @@
   },
   {
     "full_name": "ether/etherpad-lite",
-    "stargazers_count": 12588,
-    "open_issues_count": 107,
-    "forks_count": 2370
+    "stargazers_count": 12605,
+    "open_issues_count": 106,
+    "forks_count": 2374
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 9754,
+    "stargazers_count": 9781,
     "open_issues_count": 12,
-    "forks_count": 687
+    "forks_count": 690
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 7440,
+    "stargazers_count": 7487,
     "open_issues_count": 41,
-    "forks_count": 305
+    "forks_count": 306
   },
   {
     "full_name": "antfu/vitesse-webext",
-    "stargazers_count": 1288,
+    "stargazers_count": 1292,
     "open_issues_count": 8,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "lukesmurray/scrawl",
     "stargazers_count": 52,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
     "full_name": "privatenumber/esbuild-loader",
-    "stargazers_count": 2833,
+    "stargazers_count": 2842,
     "open_issues_count": 8,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "prisma-labs/bema",
@@ -133,39 +133,39 @@
   },
   {
     "full_name": "BuilderIO/qwik",
-    "stargazers_count": 3187,
+    "stargazers_count": 3220,
     "open_issues_count": 35,
-    "forks_count": 107
+    "forks_count": 109
   },
   {
     "full_name": "solidjs/solid",
-    "stargazers_count": 16780,
-    "open_issues_count": 23,
+    "stargazers_count": 16823,
+    "open_issues_count": 25,
     "forks_count": 443
   },
   {
     "full_name": "directus/directus",
-    "stargazers_count": 15109,
-    "open_issues_count": 192,
-    "forks_count": 1741
+    "stargazers_count": 15159,
+    "open_issues_count": 201,
+    "forks_count": 1747
   },
   {
     "full_name": "jonasstrehle/supercookie",
-    "stargazers_count": 3776,
+    "stargazers_count": 3781,
     "open_issues_count": 12,
     "forks_count": 211
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 21759,
-    "open_issues_count": 242,
-    "forks_count": 688
+    "stargazers_count": 21807,
+    "open_issues_count": 248,
+    "forks_count": 690
   },
   {
     "full_name": "kentcdodds/remix-kentcdodds",
-    "stargazers_count": 1310,
+    "stargazers_count": 1316,
     "open_issues_count": 23,
-    "forks_count": 368
+    "forks_count": 369
   },
   {
     "full_name": "dai-shi/remote-faces",
